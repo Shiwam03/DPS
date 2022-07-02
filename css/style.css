@@ -6979,7 +6979,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #00394f !important;
+  background-color: #1a471a !important;
 }
 
 a.bg-secondary:hover,
@@ -10700,7 +10700,7 @@ a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #00394f !important;
+  color: #666c6e !important;
 }
 
 a.text-secondary:hover,
@@ -11057,4 +11057,8 @@ a.text-dark:focus {
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.fa-solid {
+  color: #1a471a;
 }
